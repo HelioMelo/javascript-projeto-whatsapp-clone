@@ -1,0 +1,18 @@
+{
+  "name": "curso-javascript-projeto-whatsapp-clone-master",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server",
+    "dev": "webpack --config webpack.config.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^4.13.1",
+    "pdfjs-dist": "^2.0.489",
+    "webpack": "^3.1.0",
+    "webpack-dev-server": "^2.5.1"
+  }
+}
